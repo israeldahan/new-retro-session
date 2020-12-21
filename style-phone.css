@@ -1,0 +1,15 @@
+@media  (max-width: 600px) {
+    .header-main{
+        width: 100%;
+    }
+    .header-main .logo{
+        width:  100%;
+    }
+    .header-main .navigation{
+        font-size: 10px;
+    }
+    .navigation-ul{
+        font-size: 21px;
+    }
+
+}
